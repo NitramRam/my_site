@@ -1,0 +1,33 @@
+body {
+    background-image: url("img/Ela-background.jpg");
+    background-color: goldenrod;
+    background-size: cover;
+}
+h1 {
+    font-weight: 600;
+    font-size: 36px;
+    text-align: center;
+}
+h2 {
+    padding-left: 10px;
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 600;
+}
+.blog-navigation {
+    background-color: rgba(67, 94, 125, 0.8);
+    border: 8px solid rgb(67, 94, 125);
+    color: #ffffff;
+}
+.blog-navigation li {
+    margin-bottom: 5px;
+}
+.blog-navigation {
+    color: #ffffff;
+}
+.blog-navigation ul {
+    list-style: none;
+    padding-left: 10px;
+}
